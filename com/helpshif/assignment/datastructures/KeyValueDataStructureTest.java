@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class KeyValueDataStructureTest {
+public class KeyValueDataStructureTest {
 
 	private KeyValueDataStructure keyValueDS = new KeyValueDataStructure();
 	
